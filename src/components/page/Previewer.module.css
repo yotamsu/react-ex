@@ -1,0 +1,19 @@
+.previewWrap {
+  max-width: 800px;
+  margin: 1.25rem auto;
+  min-height: 200px;
+  width: 99%;
+}
+
+.previewWrap {
+  background-color: #c0d8d8;
+  border: 1px solid #1d2f2f;
+  box-shadow: 1px 1px 10px 2px #3a5f5f;
+  border-top: none;
+}
+
+.maximized {
+  width: 96%;
+  min-height: 100vh;
+  margin: auto;
+}

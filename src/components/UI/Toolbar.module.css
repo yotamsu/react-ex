@@ -1,0 +1,35 @@
+.toolbar {
+  display: flex;
+  align-items: center;
+  background-color: #46a8a8;
+  box-shadow: 1px 1px 10px 2px #3a5f5f;
+  padding: 0.3rem;
+  border: 1px solid #1d2f2f;
+  font-family: Russo One;
+  font-size: 1rem;
+  color: black;
+  width: 99%;
+}
+
+svg {
+  font-style: italic;
+}
+
+.toolbar svg {
+  width: 25px;
+  margin-left: 5px;
+}
+
+.toolbar .arrows,
+.toolbar .compress {
+  margin-left: auto;
+}
+
+.arrows:hover {
+  color: #57e2b1;
+  cursor: pointer;
+}
+
+.project {
+  margin-right: 3px;
+}
